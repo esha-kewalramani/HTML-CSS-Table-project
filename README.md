@@ -1,4 +1,5 @@
 HTML CSS Table Project
+
 This is a beginner-friendly project created using HTML and CSS.
 
 📌 Features
@@ -15,4 +16,5 @@ This is a beginner-friendly project created using HTML and CSS.
 - table.css → styling of the table
 
 🚀 Author
+
 Esha Kewalramani
