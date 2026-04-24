@@ -1,4 +1,4 @@
-HTML CSS Table Project
+Table Project
 
 This is a beginner-friendly project created using HTML and CSS.
 
